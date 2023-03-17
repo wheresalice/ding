@@ -7,7 +7,7 @@ require (
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.15.0
 	github.com/urfave/cli/v2 v2.25.0
-	github.com/wind-c/comqtt v1.2.0
+	github.com/wind-c/comqtt v1.5.0
 )
 
 require (
